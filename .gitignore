@@ -54,6 +54,7 @@ sftp-config.json
 
 # ignore migration files, sensitive data
 /migration
+/sheets
 
 # -------------------------
 # BEGIN Whitelisted Files
