@@ -172,6 +172,7 @@ fields.beforeUnloadFields = {
   v58: 'Chat Covnersation ID',
   v59: 'Chat Playbook ID',
   v60: 'Chat Campaign ID',
+  v71: 'Adobe Target ID',
   c14: 'Form Errors',
   c16: 'Form Interaction Path',
   c17: 'Forms On Page',
